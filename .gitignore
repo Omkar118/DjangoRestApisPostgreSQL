@@ -1,0 +1,6 @@
+.idea/*
+/home/retro/PycharmProjects/DjangoRestApisPostgreSQL/DjangoRestApisPostgreSQL/__pycache__/*
+/home/retro/PycharmProjects/DjangoRestApisPostgreSQL/userfiles/__pycache__/*
+.directory
+/home/retro/PycharmProjects/DjangoRestApisPostgreSQL/userfiles/.directory
+/home/retro/PycharmProjects/DjangoRestApisPostgreSQL/DjangoRestApisPostgreSQL/.directory
